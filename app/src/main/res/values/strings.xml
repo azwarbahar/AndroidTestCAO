@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTestCAO</string>
+    <string name="contacts">Contacts</string>
 </resources>
