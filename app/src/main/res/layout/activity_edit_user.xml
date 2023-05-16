@@ -219,7 +219,9 @@
             android:textColor="@color/black"
             android:layout_toRightOf="@id/tv4"
             android:hint="@string/dob"
-            android:inputType="textEmailAddress" />
+            android:drawableRight="@drawable/baseline_date_range_24"
+            android:inputType="text"
+            android:focusableInTouchMode="false" />
 
         <View
             android:background="@color/grey"
